@@ -1,0 +1,7 @@
+WARNING: combining -O with -r or -p will mean that all downloaded content
+will be placed in the single file you specified.
+
+WARNING: timestamping does nothing in combination with -O. See the manual
+for details.
+
+-k or -r can be used together with -O only if outputting to a regular file.
